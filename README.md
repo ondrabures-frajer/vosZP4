@@ -1,10 +1,10 @@
 # Skladový systém (C#)
 
-Jednoduchá desktopová aplikace pro správu skladových zásob vytvořená v jazyce C# pomocí Windows Forms a SQLite databáze.
+Aplikace pro správu skladových zásob v C# - Windows Forms a SQLite databáze.
 
 ---
 
-## ✨ Funkce
+## Funkce
 - Přidání produktu  
 - Úprava produktu  
 - Smazání produktu  
@@ -13,7 +13,7 @@ Jednoduchá desktopová aplikace pro správu skladových zásob vytvořená v ja
 
 ---
 
-## 🛠️ Použité technologie
+## Použité technologie
 - C# (.NET)
 - Windows Forms
 - SQLite
@@ -21,7 +21,7 @@ Jednoduchá desktopová aplikace pro správu skladových zásob vytvořená v ja
 
 ---
 
-## 🚀 Spuštění projektu
+## Spuštění projektu
 
 1. Naklonuj repozitář:
    ```bash
