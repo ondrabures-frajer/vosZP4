@@ -21,8 +21,24 @@ Aplikace pro správu skladových zásob v C# - Windows Forms a SQLite databáze.
 
 ---
 
-## Spuštění projektu
+## Databáze
+- Databáze se vytvoří automaticky jako soubor `sklad.db`
+- Není potřeba instalovat SQL Server
+- Data jsou ukládána lokálně
 
-1. Naklonuj repozitář:
-   ```bash
-   git clone https://github.com/TVUJ-USERNAME/skladovy-system.git
+---
+
+## Struktura projektu
+
+SkladovySystem/  
+│── SkladovySystem.sln  
+│── SkladovySystem/  
+│   │── Form1.cs  
+│   │── Database.cs  
+│   │── Program.cs  
+│   │── sklad.db (vytvoří se automaticky)  
+
+---
+
+## Autor
+- Ondřej Bureš
